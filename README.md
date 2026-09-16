@@ -55,10 +55,6 @@ A full-stack MERN platform connecting clients with lawyers.
 Personal portfolio built with Next.js and Tailwind CSS.
 **Tech Stack:** Next.js, Tailwind CSS
 
-**[Project Name]**
-Short description of what it does.
-**Tech Stack:** React, Firebase, Tailwind CSS
-
 ---
 
 ### 📊 GitHub Stats
@@ -76,7 +72,7 @@ Short description of what it does.
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-mozid-2k25)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abdulmozid2k25@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mozidportfolio.vercel.app/)
 
