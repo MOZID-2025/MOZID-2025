@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Banner (edit text= for your name/title) -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:6d28d9&height=200&section=header&text=ABDUL%20MOZID&fontSize=42&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20MERN%20Stack&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:6d28d9&height=200&section=header&text=ABDUL%20MOZID&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Frontend%20Developer%20%7C%20MERN%20Stack&descAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
 
